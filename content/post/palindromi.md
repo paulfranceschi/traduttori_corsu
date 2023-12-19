@@ -1,5 +1,5 @@
 
-<img align="right" width="30%" src="/screenshot1.jpg">
+<img align="right" width="30%" src="/images/Ambigram-palindrome.jpg">
 
 Eccu una manata di palindromi, in i varianti maestri di a lingua corsa
 
