@@ -2,6 +2,32 @@ baseURL = '/'
 languageCode = 'en-us'
 title = 'Traduttori corsu'
 theme = "PaperMod"
+author = "Paul Franceschi"
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    [[languages.en.menu.main]]
+      identifier = "home"
+      name = "Home"
+      url = "/"
+      weight = 1
+  [languages.fr]
+    languageName = "Français"
+    [[languages.fr.menu.main]]
+      identifier = "home.fr"
+      name = "Accueil"
+      pageRef = "/content/_index.fr.md"
+      url = "/"
+      weight = 1
+  [languages.co]
+    languageName = "Corsu"
+    [[languages.co.menu.main]]
+      identifier = "home.co"
+      name = "Pagina maestra"
+      pageRef = "/content/_index.co.md"
+      url = "/"
+      weight = 1
 
 [markup]
   [markup.goldmark]
