@@ -1,12 +1,5 @@
----
-title: "Kinsta Hosting"
-date: 2023-09-08T10:11:28+02:00
-draft: false
----
+# Annunciu di una virsioni nova di u Traduttori corsu
 
-Kinsta is an all-in-one cloud platform that powers projects of every size. Offering Application, Database, Static Site, and WordPress hosting, Kinsta is committed to rapid and secure infrastructure, easy deployments, and a developer-centered experience. 
+<img align="right" width="30%" src="https://github.com/paulfranceschi/traduttori_corsu.github.io/blob/main/screenshot1.jpg">
+Ci hè una virsioni nova di u Traduttore corsu annantu à u Playstore. Ci voli à disistallà a virsioni anziana, è scaricà dopu a virsioni nova, scritta cù u linguaghju Python.
 
-- [Application Hosting](https://kinsta.com/application-hosting)
-- [Database Hosting](https://kinsta.com/database-hosting)
-- [Static Site Hosting](https://kinsta.com/static-site-hosting)
-- [WordPress Hosting](https://kinsta.com/wordpress-hosting)
