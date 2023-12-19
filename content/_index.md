@@ -1,6 +1,3 @@
----
-draft: false
----
 
 This site presents my work in philosophy. It contains published articles and preprints. The texts relate to analytic philosophy, ontology, the study of concepts, cognition and psycho-pathological philosophy.
 
@@ -15,4 +12,3 @@ My work involves some fields that are apparently very different. However, most t
 <p></p>
 <hr>
 <p></p>
-<img align="left" width="25%" src="/images/couv-createspace.jpg" style="margin-right: 20px;">
