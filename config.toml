@@ -2,3 +2,9 @@ baseURL = '/'
 languageCode = 'en-us'
 title = 'Traduttori corsu'
 theme = "PaperMod"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+      
