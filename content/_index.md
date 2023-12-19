@@ -18,17 +18,3 @@ My work involves some fields that are apparently very different. However, most t
 <hr>
 <p></p>
 <img align="left" width="25%" src="/images/couv-createspace.jpg" style="margin-right: 20px;">
-
-In this [book](https://www.amazon.com/Introduction-Analytic-Philosophy-Paradoxes-Contemporary/dp/1482739836), Paul Franceschi provides us with an introduction to analytic philosophy. In a concrete way, he chooses to describe forty paradoxes, arguments or philosophical issues that represent so many challenges for contemporary philosophy and human intelligence, for some paradoxes of millennial origin—such as the Liar or the sorites paradox—are still unresolved in the present day. Some other philosophical puzzles, however—such as the Doomsday argument—appeared only recently in the literature. The author strives to introduce us clearly to each of these problems as well as to major attempts that have been formulated to solve them.
-
-“I'm really impressed by this very neat and stimulating book. I highly recommend it both to students for pedagogy and general culture (prisoner's dilemma, twin-earth, etc.), and to professionals as well for the reference tool and even more generally to those who like to think.”
-
-Julien Dutant, Philotropes, Philosophical blog
-<p></p>
-<hr>
-<p></p>
-<img align="right" width="60%" src="/images/presentation-en.jpg" style="margin-left: 20px;">
-
-My [course](https://www.udemy.com/course/how-to-make-a-dialectical-plan/learn/lecture/32122478#overview) duration: 3h20 entitled “How to make a dialectical plan” is online on Udemy. The course is a pedagogical and practical version of the notions contained in my articles On a Class of Concepts and The Dialectical Plan: For an Alternative to the Paradigm, published in the journal Semiotica. It is a step-by-step method, with exercises, to learn how to make a dialectical plan, using matrices of concepts.
-
-
