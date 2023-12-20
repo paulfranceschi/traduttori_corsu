@@ -1,7 +1,7 @@
 
 Ce site présente mes travaux en philosophie. Il contient des articles publiés et des pré-publications. Les textes concernent la philosophie analytique, l’étude des concepts, la cognition et la philosophie psycho-pathologique.
 
-<img align="right" width="25%" src="/images/screenshot1.jpg" style="margin-left: 20px;">
+<img align="right" width="25%" src="/images/icon.jpg" style="margin-left: 20px;">
 
 Mes travaux portent principalement sur la philosophie analytique et consistent en solutions proposées à plusieurs paradoxes philosophiques: l’argument de l’Apocalypse, le paradoxe de Hempel, le paradoxe de Goodman, le paradoxe de l’examen-surprise, le problème de la beauté endormie, l’argument de la simulation, etc. Un outil conceptuel, les n-univers, utile pour l’étude des problèmes philosophiques, est également présenté.
 
