@@ -1,4 +1,4 @@
-# Annunciu di una virsioni nova di u Traduttori corsu
+# Palindromi in lingua corsa
 
 <img align="right" width="30%" src="/images/palindrome.jpg">
 
