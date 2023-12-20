@@ -2,7 +2,7 @@
 
 Ci hè una traduzioni di u racontu cortu intitulatu 'U corbu' d'Edgar Poe. 'Ssa traduzioni hè stata fatta da Matteu Cirnensi è publicata in a rivista A Muvra in 1925.
 
-<img align="right" width="30%" src="/images/U-corbu.jpg">
+<img align="right" width="30%" src="/main/static/images/U-corbu.jpg">
 
 '[U Corbu](https://co.wikipedia.org/wiki/U_corbu_(Edgar_Poe))' hè un puema narrativu di u scrittore americanu Edgar Allan Poe. Publicatu per a prima volta di ghjinnaghju 1845, 'ssu puema hè à spessu rimarcatu per a so musicalità, u so linguaghju stilizatu è a so atmusfera sopranaturale. Conta a storia d'un amurosu abambanatu chì riceve a visita misteriosa d'un corbu chì parla. L'amurosu, à spessu identificatu cum'è un studiente, si lamenta annantu à a perdita di u so amore, Leonora. Pusatu annantu à un bustu di Pallade, u corbu pare cuntrarià di più u prutagonistu ripetendu in mode custante a parola "Mai più". U puema face appellu à i riferimenti folclorichi, mitulogichi, riligiosi è classichi. 
 
