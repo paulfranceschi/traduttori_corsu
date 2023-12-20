@@ -1,3 +1,6 @@
+---
+title: "Traduttore corsu: traducteur français-corse"
+---
 
 <img align="right" width="25%" src="/images/icon.jpg" style="margin-left: 20px;">
 
