@@ -5,6 +5,8 @@ title = 'Traduttori corsu'
 theme = "PaperMod"
 author = "Paul Franceschi"
 
+enableRobotsTXT = true
+
 [params]
   # Declare "post" as a main section to be included in the home page
   mainSections = ["post"]
