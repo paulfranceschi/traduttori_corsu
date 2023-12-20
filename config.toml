@@ -1,5 +1,6 @@
 baseURL = '/'
 languageCode = 'en-us'
+DefaultContentLanguage = "en"
 title = 'Traduttori corsu'
 theme = "PaperMod"
 author = "Paul Franceschi"
