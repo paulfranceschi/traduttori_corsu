@@ -1,13 +1,22 @@
-This site presents my work in philosophy. It contains published articles and preprints. The texts relate to analytic philosophy, ontology, the study of concepts, cognition and psycho-pathological philosophy.
 
 <img align="right" width="35%" src="/images/icon.jpg" style="margin-left: 20px;">
-My work is primarily concerned with analytic philosophy and consists of proposed solutions to some philosophical paradoxes : the Doomsday argument, Hempel's paradox, Goodman 's paradox, the surprise examination paradox, the Sleeping Beauty problem, the Black-Leslie paradox of the spheres, the Simulation argument, etc.. A conceptual tool, the n-universes, which are useful for the study of philosophical problems is also presented.
 
-An important area of interest is the study of reasoning in the field of psychopathology. Several texts also relate to cognition and cognitive distortions. Additions to the classical theory of cognitive distortions are exposed, and their applications in the field of psycho-pathological philosophy: a new conceptual framework for cognitive distortions, a specific account of personalization, and of over-generalization and labelling.
+La performance de l'application Traduttore corsu  est évaluée régulièrement à l’aide d’un test qui consiste en la traduction d’un texte pseudo-aléatoire. Ce test porte sur la traduction des 100 premiers mots de l’ « article labellisé du jour » de l’encyclopédie wikipédia en français. Actuellement, le logiciel obtient en moyenne 94 % à ce test.
 
-Lastly, there are texts on semantics and the study of concepts. These texts are based on a specific conceptual tool : the matrices of concepts. Recent applications to the dialectical plan, to paradigm analysis of a corpus of proverbs , to the analysis of the love-hate indifference triplet of concepts are also presented.
+À la différence des logiciels de traduction automatique basés sur les statistiques ou des corpus de traduction, Traduttore corsu se fonde à 90% sur l’application des règles (type grammatical, désambiguïsation, élision, euphonie, etc.) et à 10% sur une méthode statistique. Ce choix correspond à plusieurs motivations :
+▪ il n’existe pas actuellement de corpus élaboré français-corse
+▪ un tel choix permet un meilleur contrôle de l’intelligence artificielle mise en oeuvre et une traçabilité de la traduction
 
-My work involves some fields that are apparently very different. However, most texts are underpinned by a particular philosophical doctrine , which can be defined as "dialectical contextualism". And this doctrine has applications in analytical philosophy, psycho-pathological philosophy and the study of concepts. Its role as a methodological tool aimed at solving philosophical paradoxes is explained in more detail in my "Elements of dialectical contextualism".
+Un certain nombre d'options sont disponibles:
+- augmenter ou diminuer la taille des caractères affichés dans les zones de texte à traduire et de texte traduit
+- coller du texte dans la zone de texte à traduire
+- effacer la zone de texte à traduire 
+- modifier la langue de l'interface de l'application: corse (dans l'une des trois variantes cismuntincu, sartinesu ou taravesu), anglais, français, italien
+- choisir entre le mode d'écriture séparée (par exemple "manghjà lu") ou regroupée (par exemple "manghjallu") du corse
+
+La version libre permet de traduire des textes d'une longueur de 300 mots. La version professionnelle permet la traduction de textes sans limitation de longueur.
+
+Clause de non-responsabilité: Les traductions résultant de l'application Traduttore corsu sont fournies "tel quel". Aucune garantie d'aucune sorte, explicite ou implicite, mais non limitée aux garanties de qualité marchande, n'est fournie quant à la fiabilité ou l'exactitude de toute traduction faite de la langue-source vers la langue-cible. En aucun cas, l'auteur ne peut être tenu pour responsable vis-à-vis de l'utilisateur final pour toute réclamation, perte, dommage ou autre responsabilité, coût ou dépense (y compris les frais de litige et les frais d'avocat) de toute nature, résultant ou ou en relation avec l'utilisation du présent traducteur.
 <p></p>
 <hr>
 <p></p>
