@@ -6,11 +6,11 @@ theme = "PaperMod"
 author = "Paul Franceschi"
 
 [params]
+  # Declare "post" as a main section to be included in the home page
+  mainSections = ["post"]
   [params.contact]
     email = 'paul.franceschi@yahoo.fr'
 
-# Declare "post" as a main section to be included in the home page
-mainSections = ["post"]
 
 [languages]
   [languages.en]
