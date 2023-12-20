@@ -1,15 +1,25 @@
-
-Ce site présente mes travaux en philosophie. Il contient des articles publiés et des pré-publications. Les textes concernent la philosophie analytique, l’étude des concepts, la cognition et la philosophie psycho-pathologique.
+---
+title: "Traduttore corsu/Traduttori corsu"
+---
 
 <img align="right" width="25%" src="/images/icon.jpg" style="margin-left: 20px;">
 
-Mes travaux portent principalement sur la philosophie analytique et consistent en solutions proposées à plusieurs paradoxes philosophiques: l’argument de l’Apocalypse, le paradoxe de Hempel, le paradoxe de Goodman, le paradoxe de l’examen-surprise, le problème de la beauté endormie, l’argument de la simulation, etc. Un outil conceptuel, les n-univers, utile pour l’étude des problèmes philosophiques, est également présenté.
+L'appiicazione Traduttore corsu traduce i testi da u francese à u corsu. Rispittosu di u caratteru pulinomicu di a lingua corsa, a traduzzione s'effittueghja in una di e trè variante principale di a lingua corsa : cismuntincu, sartinesu (rucchisgianu) o taravesu. 
 
-Plusieurs textes concernent également la cognition et les distorsions cognitives. Des compléments à la théorie classique des distorsions cognitives sont exposés, ainsi que leurs applications dans le domaine de la philosophie psycho-pathologique: un nouveau cadre conceptuel pour les distorsions cognitives, une présentation  spécifique de la personnalisation et de la généralisation excessive et de l’étiquetage.
+A pristazione di l'appiicazione Traduttore corsu hè valutata rigularmente cù l'aiutu di una prova aperta chì cunsiste in a traduzzione d'un testu pseudoaleatoriu. 'Ssa prova porta annantu à a traduzzione di e 100 prime parole di l'articulu  dettu di u ghjornu di l'enciclupedia wikipedia in francese. Attualmente, u lugiziale ottene di media 94 % à 'ssa prova. 
 
-Enfin, certains textes concernent l’étude des concepts. Ils sont basés sur un outil conceptuel spécifique: les matrices de concepts. Des applications au plan dialectique, à l’analyse paradigmatique d’un corpus de proverbes, à l’analyse du triplet de concepts amour-haine-indifférence sont également présentées. Mon livre le plus récent L’ABC du plan dialectique matriciel présente une application des matrices de concepts à la conception et à la réalisation d’un plan dialectique.
+À a differenza di i lugiziali di traduzzione automatica basati annantu à e statistiche o corpus di traduzzione, u Traduttore corsu hè basatu annantu à l'appiicazione di e regule (grammatica, disambiguiazione, elisione, eufonia, è cetera.). 'Ssa scelta currisponde à parechje mutivazione : 
+- ùn esiste micca attualmente un corpus elaburatu da u francese à u corsu 
+- 'ssa scelta permette di cuntrullà megliu l'intelligenza artifiziale messa in sesta è una tracciabilità di a traduzzione 
 
-Les travaux présentés impliquent des champs apparemment très différents. Cependant, tous les textes s’appuient sur une doctrine philosophique particulière, que l’on peut définir comme un “contextualisme dialectique”. Et cette doctrine a des applications dans la philosophie analytique, l’étude des concepts et la philosophie psycho-pathologique. Son rôle comme outil méthodologique visant à résoudre des paradoxes philosophiques est expliqué en détail dans mes “Eléments du contextualisme dialectique“.
-<p></p>
-<hr>
-<p></p>
+Une belle poche d'ozzione sò dispunibile : 
+- aumintà o diminuisce a taglia di i caratteri affissati in e zone di testu da traduce è di u testu traduttu 
+- incullà u testu in a zona di testu da traduce 
+- sfassà a zona di testu da traduce 
+- mudificà a lingua di l'interfaccia di l'appiicazione : corsu (in una di e trè variante: cismuntincu, sartinesu o taravesu), inglese, francese, talianu 
+- sceglie trà u modu di scrittura spiccatu (per indettu manghjà lu) o accoltu (per indettu manghjallu)
+
+A virsione libera permette di traduce testi d'una lunghezza di 500 parole.
+
+Clausa di nonrisponsabilità : E traduzzione risultendu da l'appiicazione Traduttore corsu sò furnite tale è quale. Nissuna garantita di nissuna sorta, esplicita o implicita, ma micca limitata à e/à i garantite di qualità marcante, ùn hè furnita inquantu à l'attindibilità o l'esattezza di tutta traduzzione fatta di a langue-source ver'di a langue-cible. In nessun casu, l'autore ùn pò esse tenutu per rispunsevule rispettu à l'usatore finale per tutta riclamazione, perdita, dannu o altru rispunsabilità, costu o spesa/spendu/spenda/spende/spenda (cumpresu i spese di lita è i spese d'avvucatu) di tutta natura, risultendu o o in relazione incù l'usu di u prisente traduttore. 
+
