@@ -1,6 +1,6 @@
 # Annunciu di una virsioni nova di u Traduttori corsu
 
-<img align="right" width="30%" src="/images/screenshot1.jpg">
+<img align="right" width="30%" src="/images/palindrome.jpg">
 
 Eccu una manata di palindromi, in i varianti maestri di a lingua corsa:
 
