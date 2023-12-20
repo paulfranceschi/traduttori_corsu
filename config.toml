@@ -13,12 +13,6 @@ author = "Paul Franceschi"
       name = "Home"
       url = "/"
       weight = 1
-    [[languages.en.menu.main]]
-      identifier = "blog"
-      name = "Blog"
-      pageRef = "/content/pages/blog.md"
-      url = "/blog/"
-      weight = 2
 
   [languages.fr]
     languageName = "Français"
@@ -28,12 +22,6 @@ author = "Paul Franceschi"
       pageRef = "/content/_index.fr.md"
       url = "/"
       weight = 1
-    [[languages.fr.menu.main]]
-      identifier = "blog_fr"
-      name = "Blog"
-      pageRef = "/content/pages/blog.fr.md"
-      url = "/blog_fr/"
-      weight = 2
 
   [languages.co]
     languageName = "Corsu"
@@ -43,12 +31,6 @@ author = "Paul Franceschi"
       pageRef = "/content/_index.co.md"
       url = "/"
       weight = 1
-    [[languages.co.menu.main]]
-      identifier = "blog_co"
-      name = "Bloggu"
-      pageRef = "/content/pages/blog.co.md"
-      url = "/blog_co/"
-      weight = 2
 
 [markup]
   [markup.goldmark]
