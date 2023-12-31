@@ -2,7 +2,7 @@
 
 Ci hè una traduzioni di u racontu cortu intitulatu 'U corbu' d'Edgar Poe. 'Ssa traduzioni hè stata fatta da Matteu Cirnensi è publicata in a rivista A Muvra in 1925.
 <!-- [comment sample](https://github.com/paulfranceschi/Tema-per-u-chjam-e-rispondi/blob/main/Screenshot_2023-04-08-12-52-06-505_1024x500.jpg) -->
-<img align="right" width="20%" src="https://github.com/paulfranceschi/traduttori_corsu/raw/static/images/u-corbu.jpg">
+<img align="right" width="20%" src="https://github.com/paulfranceschi/traduttori_corsu/raw/main/static/images/u-corbu.jpg">
 
 <!-- <img align="right" width="20%" src="/images/u-corbu.jpg"> -->
 
