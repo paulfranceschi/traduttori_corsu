@@ -2,8 +2,7 @@
 
 <img align="right" width="20%" src="/images/wolf-and-fox.jpg">
 
-In a fola 'A Volpa è u Lupu' di Martinu Appinzapalu (in i so Raconti è Fole di l'Isula Persa), ci hè 'ssu beddu vucativu, quandu a volpi chjama u lubbu: ''o
-cumpar Lù'', in 'ssu strattu: 
+In a fola 'A Volpa è u Lupu' di Martinu Appinzapalu (in i so Raconti è Fole di l'Isula Persa), ci hè 'ssu beddu vucativu, quandu a volpi chjama u lubbu: ''o cumpar Lù'', in 'ssu strattu: 
 
 "Stat’appena si tira un fisciu di i longhi, chì significava : o cumpar Lù, aiò quì!"
 
