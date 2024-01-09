@@ -25,3 +25,4 @@ A virsione libera permette di traduce testi d'una lunghezza di 500 parole.
 
 Clausa di nonrispunsabilità : E traduzzione risultendu da l'appiicazione Traduttore corsu sò furnite tale è quale. Nissuna garantita di nissuna sorta, esplicita o implicita, ma micca limitata à e garantite di qualità marcante, ùn hè furnita inquantu à l'attindibilità o l'esattezza d'ogni traduzzione fatta di a lingua di fonte ver'di a lingua di destinazione. In nessun casu, l'autore ùn pò esse tenutu per rispunsevule rispettu à l'usatore finale per ogni riclamazione, perdita, dannu o altru rispunsabilità, costu o spesa (cumpresu e spese di lita è e spese d'avvucatu) d'ogni natura, risultendu o o in relazione incù l'usu di u prisente traduttore. 
 
+<! -- your comment -->
