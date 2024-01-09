@@ -27,4 +27,5 @@ Clausa di nonrispunsabilità : E traduzzione risultendu da l'appiicazione Tradut
 
 <! -- your comment -->
 <! https://www.paypal.com/donate/?hosted_button_id=SG6CEM44PPBQ4  -->
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SG6CEM44PPBQ4)
+S'è voi vulete sustenu stu prugettu, pudete fà un donu
+[![Fate un donu](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SG6CEM44PPBQ4)
