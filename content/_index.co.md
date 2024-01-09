@@ -9,7 +9,7 @@ L'appiicazione Traduttore corsu traduce i testi da u francese à u corsu. Rispit
 A pristazione di l'appiicazione Traduttore corsu hè valutata rigularmente cù l'aiutu di una prova aperta chì cunsiste in a traduzzione d'un testu pseudoaleatoriu. 'Ssa prova porta annantu à a traduzzione di e 100 prime parole di l'articulu  dettu di u ghjornu di l'enciclupedia wikipedia in francese. Attualmente, u lugiziale ottene di media 94 % à 'ssa prova. 
 
 À a differenza di i lugiziali di traduzzione automatica basati annantu à e statistiche o corpus di traduzzione, u Traduttore corsu hè basatu annantu à l'appiicazione di e regule (grammatica, disambiguiazione, elisione, eufonia, è cetera.). 'Ssa scelta currisponde à parechje mutivazione : 
-- ùn esiste micca attualmente un corpus elaburatu da u francese à u corsu 
+- ùn esiste micca à i ghjorni d'oghje un corpus elaburatu da u francese à u corsu 
 - 'ssa scelta permette di cuntrullà megliu l'intelligenza artifiziale messa in sesta è una tracciabilità di a traduzzione 
 
 <img align="right" width="25%" src="/images/screenshot1.jpg" style="margin-left: 20px;">
