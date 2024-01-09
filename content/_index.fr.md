@@ -30,7 +30,6 @@ Clause de non-responsabilité: Les traductions résultant de l'application Tradu
 <p></p>
 
 <! -- your comment -->
-<! https://www.paypal.com/donate/?hosted_button_id=SG6CEM44PPBQ4  -->
 
 Si vous voulez soutenir ce proget, vous pouvez faire un don:
 [![Fate un donu](https://img.shields.io/badge/Faire_un_don-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SG6CEM44PPBQ4)
