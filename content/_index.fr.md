@@ -12,7 +12,7 @@ La performance de l'application Traduttore corsu  est évaluée régulièrement 
 - il n’existe pas actuellement de corpus élaboré français-corse
 - un tel choix permet un meilleur contrôle de l’intelligence artificielle mise en oeuvre et une traçabilité de la traduction
 
-<img align="right" width="25%" src="/images/screenshot1.jpg" style="margin-left: 20px;">
+<img align="right" width="35%" src="/images/screenshot1.jpg" style="margin-left: 20px;">
 
 Un certain nombre d'options sont disponibles:
 - augmenter ou diminuer la taille des caractères affichés dans les zones de texte à traduire et de texte traduit
