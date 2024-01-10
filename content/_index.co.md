@@ -12,7 +12,7 @@ A pristazione di l'appiicazione Traduttore corsu hè valutata rigularmente cù l
 - ùn esiste micca à i ghjorni d'oghje un corpus elaburatu da u francese à u corsu 
 - 'ssa scelta permette di cuntrullà megliu l'intelligenza artifiziale messa in sesta è una tracciabilità di a traduzzione 
 
-<img align="right" width="25%" src="/images/screenshot1.jpg" style="margin-left: 20px;">
+<img align="right" width="35%" src="/images/screenshot1.jpg" style="margin-left: 20px;">
 
 Une belle poche d'ozzione sò dispunibile : 
 - aumintà o diminuisce a taglia di i caratteri affissati in e zone di testu da traduce è di u testu traduttu 
