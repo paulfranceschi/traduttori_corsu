@@ -9,7 +9,7 @@ Unlike machine translation software based on statistics or translation corpora, 
 - no elaborate French-Corsican corpus currently exists
 - such a choice allows better control of the artificial intelligence used and traceability of the translation.
 
-<img align="right" width="25%" src="/images/screenshot1.jpg" style="margin-left: 20px;">
+<img align="right" width="35%" src="/images/screenshot1.jpg" style="margin-left: 20px;">
 
 - A number of options are available:
 - increase or decrease the size of characters displayed in the text to translate and translated text areas
