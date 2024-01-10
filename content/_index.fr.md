@@ -29,5 +29,5 @@ Clause de non-responsabilité: Les traductions résultant de l'application Tradu
 <hr>
 <p></p>
 
-Si vous voulez soutenir ce proget, vous pouvez faire un don:
+Si vous voulez soutenir ce projet, vous pouvez faire un don:
 [![Fate un donu](https://img.shields.io/badge/Faire_un_don-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SG6CEM44PPBQ4)
