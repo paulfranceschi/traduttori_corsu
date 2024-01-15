@@ -34,4 +34,10 @@ Si vous voulez soutenir ce projet, vous pouvez faire un don:
 <hr>
 <p></p>
 
+La version pour windows de Traduttori corsu peut être téléchargée: [![zip](/zip/traduttori-corsu.zip). Il s'agit d'un fichier zip, qui doit être décompacté. Il suffit ensuite de lancer le fichier traduttori-corsu.exe.
+
+<p></p>
+<hr>
+<p></p>
+
 Clause de non-responsabilité: Les traductions résultant de l'application Traduttore corsu sont fournies "tel quel". Aucune garantie d'aucune sorte, explicite ou implicite, mais non limitée aux garanties de qualité marchande, n'est fournie quant à la fiabilité ou l'exactitude de toute traduction faite de la langue-source vers la langue-cible. En aucun cas, l'auteur ne peut être tenu pour responsable vis-à-vis de l'utilisateur final pour toute réclamation, perte, dommage ou autre responsabilité, coût ou dépense (y compris les frais de litige et les frais d'avocat) de toute nature, résultant ou ou en relation avec l'utilisation du présent traducteur.
