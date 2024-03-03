@@ -8,7 +8,7 @@ L'application Traduttore corsu traduit les textes de français en corse. Respect
 
 La performance de l'application Traduttore corsu  est évaluée régulièrement à l’aide d’un test qui consiste en la traduction d’un texte pseudo-aléatoire. Ce test porte sur la traduction des 100 premiers mots de l’ « article labellisé du jour » de l’encyclopédie wikipédia en français. Actuellement, le logiciel obtient en moyenne 94 % à ce test.
 
-À la différence des logiciels de traduction automatique basés sur les statistiques ou des corpus de traduction, Traduttore corsu se fonde à 90% sur l’application des règles (type grammatical, désambiguïsation, élision, euphonie, etc.) et à 10% sur une méthode statistique. Ce choix correspond à plusieurs motivations :
+À la différence des logiciels de traduction automatique basés sur les statistiques ou des corpus de traduction, Traduttore corsu se fonde à 80% sur l’application des règles (type grammatical, désambiguïsation, élision, euphonie, etc.) et à 20% sur une méthode statistique. Ce choix correspond à plusieurs motivations :
 - il n’existe pas actuellement de corpus élaboré français-corse
 - un tel choix permet un meilleur contrôle de l’intelligence artificielle mise en oeuvre et une traçabilité de la traduction
 
@@ -21,7 +21,7 @@ Un certain nombre d'options sont disponibles:
 - modifier la langue de l'interface de l'application: corse (dans l'une des trois variantes cismuntincu, sartinesu ou taravesu), anglais, français, italien
 - choisir entre le mode d'écriture séparée (par exemple "manghjà lu") ou regroupée (par exemple "manghjallu") du corse
 
-La version libre permet de traduire des textes d'une longueur de 300 mots. La version professionnelle permet la traduction de textes sans limitation de longueur.
+La version libre permet de traduire des textes d'une longueur de 100 mots. La version professionnelle permet la traduction de textes sans limitation de longueur.
 
 <p></p>
 <hr>
