@@ -34,7 +34,7 @@ Si vous voulez soutenir ce projet, vous pouvez faire un don:
 <hr>
 <p></p>
 
-La [version pour windows de Traduttore corsu](/zip/traduttore-corsu.zip) peut être téléchargée. Il s'agit d'un fichier zip, qui doit être décompacté. Il suffit ensuite de lancer le fichier traduttori-corsu.exe.
+La [version pour windows de Traduttore corsu](/zip/setup.exe) peut être téléchargée. Il s'agit d'un programme d'installation, qui doit être éxécuté pour installer la version pour windows de Traduttore corsu.
 
 <p></p>
 <hr>
