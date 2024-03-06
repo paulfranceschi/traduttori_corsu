@@ -36,7 +36,7 @@ Si vous voulez soutenir ce projet, vous pouvez faire un don:
 
 <img align="right" width="100%" src="/images/screenshot.jpg" style="margin-left: 20px;">
 
-La [version Premium de Traduttore corsu pour windows](/zip/setup.exe), adaptée à un usage professionnel, est disponible en téléchargement. Elle nécessité une clé d'API qui est disponible par abonnement auprès de rapidapi.com. Les avantages que procurent la version Premium sont les suivants:
+La [version Premium de Traduttore corsu pour windows](/zip/setup.exe), adaptée à un usage professionnel, est disponible en téléchargement. Elle nécessité une clé d'API qui est disponible par [abonnement auprès de rapidapi.com](https://rapidapi.com/okchakkotranslator/api/traduttore-corsu-premium/). Les avantages que procurent la version Premium sont les suivants:
 
 - la longueur du texte à traduire n'est pas limitée.
 - le traducteur travaille à pleine vitesse : par exemple, il effectue la traduction de la nouvelle Le Horla de Maupassant (9370 mots, 52460 caractères) en 2 secondes en moyenne.
