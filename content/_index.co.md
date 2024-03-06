@@ -23,11 +23,27 @@ Une belle poche d'ozzione sò dispunibile :
 
 A virsione libera permette di traduce testi d'una lunghezza di 500 parole.
 
-Clausa di nonrispunsabilità : E traduzzione risultendu da l'appiicazione Traduttore corsu sò furnite tale è quale. Nissuna garantita di nissuna sorta, esplicita o implicita, ma micca limitata à e garantite di qualità marcante, ùn hè furnita inquantu à l'attindibilità o l'esattezza d'ogni traduzzione fatta di a lingua di fonte ver'di a lingua di destinazione. In nessun casu, l'autore ùn pò esse tenutu per rispunsevule rispettu à l'usatore finale per ogni riclamazione, perdita, dannu o altru rispunsabilità, costu o spesa (cumpresu e spese di lita è e spese d'avvucatu) d'ogni natura, risultendu o o in relazione incù l'usu di u prisente traduttore. 
-
 <p></p>
 <hr>
 <p></p>
 
 S'è voi vulete sustene stu prugettu, pudete fà un donu:
 [![Fate un donu](https://img.shields.io/badge/Fate_un_donu-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SG6CEM44PPBQ4)
+
+<p></p>
+<hr>
+<p></p>
+
+<img align="right" width="100%" src="/images/screenshot.jpg" style="margin-left: 20px;">
+
+A [virsione Premium di Traduttore corsu per windows](/zip/setup.exe), adatta à un usu professiunale, hè dispunibile in telescaricamentu. Necessiteghja una chjave API chì hè dispunibile per via d'abbunamentu incù rapidapi.com. L'avantaghji ch'ella arreca a virsione Premium sò quessi : 
+
+- a lunghezza di u testu da traduce ùn hè micca limitata. 
+- u traduttore travaglia à piena velucità : per indettu, effittueghja a traduzzione di u racontu cortu Le Horla di Maupassant (9370 parole, 52460 caratteri) in 2 sicondi di media. 
+- Dispunite di statistiche dittagliate annantu à l'usu di l'API Traduttore corsu, per via di a sezzione Analytics di u vostru contu rapidapi.com. 
+
+<p></p>
+<hr>
+<p></p>
+
+Clausa di nonrispunsabilità : E traduzzione risultendu da l'appiicazione Traduttore corsu sò furnite tale è quale. Nissuna garantita di nissuna sorta, esplicita o implicita, ma micca limitata à e garantite di qualità marcante, ùn hè furnita inquantu à l'attindibilità o l'esattezza d'ogni traduzzione fatta di a lingua di fonte ver'di a lingua di destinazione. In nessun casu, l'autore ùn pò esse tenutu per rispunsevule rispettu à l'usatore finale per ogni riclamazione, perdita, dannu o altru rispunsabilità, costu o spesa (cumpresu e spese di lita è e spese d'avvucatu) d'ogni natura, risultendu o o in relazione incù l'usu di u prisente traduttore. 
