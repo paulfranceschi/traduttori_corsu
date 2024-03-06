@@ -21,7 +21,7 @@ Un certain nombre d'options sont disponibles:
 - modifier la langue de l'interface de l'application: corse (dans l'une des trois variantes cismuntincu, sartinesu ou taravesu), anglais, français, italien
 - choisir entre le mode d'écriture séparée (par exemple "manghjà lu") ou regroupée (par exemple "manghjallu") du corse
 
-La version libre permet de traduire des textes d'une longueur de 100 mots. La version professionnelle permet la traduction de textes sans limitation de longueur.
+La version pour Android permet de traduire des textes d'une longueur de 100 mots. La version Premium permet la traduction de textes sans limitation de longueur.
 
 <p></p>
 <hr>
@@ -34,7 +34,11 @@ Si vous voulez soutenir ce projet, vous pouvez faire un don:
 <hr>
 <p></p>
 
-La [version pour windows de Traduttore corsu](/zip/traduttori-corsu.exe) peut être téléchargée. Il s'agit d'un fichier zip, qui doit être décompacté pour installer la version pour windows de Traduttore corsu.
+La [version Premium de Traduttore corsu pour windows](/zip/setup.exe) est disponible en téléchargement. Elle nécessité une clé d'API qui est disponible par abonnement auprès de rapidapi.com. Les avantages que procurent la version Premium sont les suivants:
+
+- la longueur du texte à traduire n'est pas limitée.
+- le traducteur travaille à pleine vitesse : par exemple, il effectue la traduction de la nouvelle Le Horla de Maupassant (9370 mots, 52460 caractères) en 2 secondes en moyenne.
+- vous disposez de statistiques détaillées sur l'utilisation de l'API Traduttore corsu, via la section "Analytics" de votre compte rapidapi.
 
 <p></p>
 <hr>
