@@ -36,11 +36,11 @@ S'è voi vulete sustene stu prugettu, pudete fà un donu:
 
 <img align="right" width="100%" src="/images/screenshot.jpg" style="margin-left: 20px;">
 
-A [virsione Premium di Traduttore corsu per windows](/zip/setup.exe), adatta à un usu professiunale, hè dispunibile in telescaricamentu. Necessiteghja una chjave API chì hè dispunibile per via d'abbunamentu incù rapidapi.com. L'avantaghji ch'ella arreca a virsione Premium sò quessi: 
+A [virsione Premium di Traduttore corsu per windows](/zip/setup.exe), adatta per un usu professiunale, hè dispunibile in telescaricamentu. Necessiteghja una chjave API chì hè dispunibile per via d'abbunamentu incù rapidapi.com. L'avantaghji ch'ella arreca a virsione Premium sò quessi: 
 
 - a lunghezza di u testu da traduce ùn hè micca limitata. 
-- u traduttore travaglia à piena velucità : per indettu, effittueghja a traduzzione di u racontu cortu Le Horla di Maupassant (9370 parole, 52460 caratteri) in 2 sicondi di media. 
-- Dispunite di statistiche dittagliate annantu à l'usu di l'API Traduttore corsu, per via di a sezzione Analytics di u vostru contu rapidapi.com. 
+- u traduttore travaglia à piena velucità : per indettu, effittueghja a traduzzione di u racontu cortu Le Horla di Maupassant (9370 parole, 52460 caratteri) in 2 siconde di media. 
+- si dispone di statistiche dittagliate annantu à l'usu di l'API Traduttore corsu, per via di a sezzione Analytics di u vostru contu rapidapi.com. 
 
 <p></p>
 <hr>
