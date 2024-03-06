@@ -34,6 +34,8 @@ Si vous voulez soutenir ce projet, vous pouvez faire un don:
 <hr>
 <p></p>
 
+<img align="right" width="100%" src="/images/screenshot.jpg" style="margin-left: 20px;">
+
 La [version Premium de Traduttore corsu pour windows](/zip/setup.exe) est disponible en téléchargement. Elle nécessité une clé d'API qui est disponible par abonnement auprès de rapidapi.com. Les avantages que procurent la version Premium sont les suivants:
 
 - la longueur du texte à traduire n'est pas limitée.
