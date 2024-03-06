@@ -21,14 +21,6 @@ Unlike machine translation software based on statistics or translation corpora, 
 The free version translates texts up to 500 words long. The professional version can translate texts of any length.
 
 Disclaimer: Translations resulting from the Traduttore corsu application are provided "as is". No warranty of any kind, expressed or implied, but not limited to warranties of merchantability, is provided as to the reliability or accuracy of any translation made from the source language into the target language. In no event shall the author be liable to the end user for any claim, loss, damage or other liability, cost or expense (including litigation costs and attorney's fees) of any nature, arising out of or in connection with the use of this translator.
-<p></p>
-<hr>
-<p></p>
-<! -- your comment -->
-<! https://www.paypal.com/donate/?hosted_button_id=SG6CEM44PPBQ4  -->
-
-If you are willing to support this project, you can make a donation:
-[![Fate un donu](https://img.shields.io/badge/Make_a_donation-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SG6CEM44PPBQ4)
 
 <p></p>
 <hr>
@@ -41,4 +33,14 @@ The [Premium version of Traduttore corsu for windows](/zip/setup.exe), suitable 
 - the length of the text to be translated is not limited.
 - the translator works at full speed: for example, he translates Maupassant's short story Le Horla (9370 words, 52460 characters) in an average of 2 seconds.
 - detailed statistics on the use of the Traduttore corsu API are available in the "Analytics" section of your rapidapi account.
+
+<p></p>
+<hr>
+<p></p>
+
+<! -- your comment -->
+<! https://www.paypal.com/donate/?hosted_button_id=SG6CEM44PPBQ4  -->
+
+If you are willing to support this project, you can make a donation:
+[![Fate un donu](https://img.shields.io/badge/Make_a_donation-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SG6CEM44PPBQ4)
 
