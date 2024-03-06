@@ -27,13 +27,6 @@ La version pour Android permet de traduire des textes d'une longueur de 100 mots
 <hr>
 <p></p>
 
-Si vous voulez soutenir ce projet, vous pouvez faire un don:
-[![Fate un donu](https://img.shields.io/badge/Faire_un_don-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SG6CEM44PPBQ4)
-
-<p></p>
-<hr>
-<p></p>
-
 <img align="right" width="100%" src="/images/screenshot.jpg" style="margin-left: 20px;">
 
 La [version Premium de Traduttore corsu pour windows](/zip/setup.exe), adaptée à un usage professionnel, est disponible en téléchargement. Elle nécessité une clé d'API qui est disponible par [abonnement auprès de rapidapi.com](https://rapidapi.com/okchakkotranslator/api/traduttore-corsu-premium/). Les avantages que procurent la version Premium sont les suivants:
@@ -47,3 +40,11 @@ La [version Premium de Traduttore corsu pour windows](/zip/setup.exe), adaptée 
 <p></p>
 
 Clause de non-responsabilité: Les traductions résultant de l'application Traduttore corsu sont fournies "tel quel". Aucune garantie d'aucune sorte, explicite ou implicite, mais non limitée aux garanties de qualité marchande, n'est fournie quant à la fiabilité ou l'exactitude de toute traduction faite de la langue-source vers la langue-cible. En aucun cas, l'auteur ne peut être tenu pour responsable vis-à-vis de l'utilisateur final pour toute réclamation, perte, dommage ou autre responsabilité, coût ou dépense (y compris les frais de litige et les frais d'avocat) de toute nature, résultant ou ou en relation avec l'utilisation du présent traducteur.
+
+<p></p>
+<hr>
+<p></p>
+
+Si vous voulez soutenir ce projet, vous pouvez faire un don:
+[![Fate un donu](https://img.shields.io/badge/Faire_un_don-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SG6CEM44PPBQ4)
+
