@@ -29,3 +29,16 @@ Disclaimer: Translations resulting from the Traduttore corsu application are pro
 
 If you are willing to support this project, you can make a donation:
 [![Fate un donu](https://img.shields.io/badge/Make_a_donation-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SG6CEM44PPBQ4)
+
+<p></p>
+<hr>
+<p></p>
+
+<img align="right" width="100%" src="/images/screenshot.jpg" style="margin-left: 20px;">
+
+The [Premium version of Traduttore corsu for windows](/zip/setup.exe) is available for download. It requires an API key which is available by subscription from rapidapi.com. The advantages of the Premium version are as follows:
+
+- the length of the text to be translated is not limited.
+- the translator works at full speed: for example, he translates Maupassant's short story Le Horla (9370 words, 52460 characters) in an average of 2 seconds.
+- detailed statistics on the use of the Traduttore corsu API are available in the "Analytics" section of your rapidapi account.
+- 
