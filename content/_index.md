@@ -36,7 +36,7 @@ If you are willing to support this project, you can make a donation:
 
 <img align="right" width="100%" src="/images/screenshot.jpg" style="margin-left: 20px;">
 
-The [Premium version of Traduttore corsu for windows](/zip/setup.exe) is available for download. It requires an API key which is available by subscription from rapidapi.com. The advantages of the Premium version are as follows:
+The [Premium version of Traduttore corsu for windows](/zip/setup.exe), suitable for professional use, is available for download. It requires an API key which is available by subscription from rapidapi.com. The advantages of the Premium version are as follows:
 
 - the length of the text to be translated is not limited.
 - the translator works at full speed: for example, he translates Maupassant's short story Le Horla (9370 words, 52460 characters) in an average of 2 seconds.
