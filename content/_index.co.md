@@ -35,6 +35,8 @@ A [virsione Premium di Traduttore corsu per windows](/zip/setup.exe), adatta per
 - u traduttore travaglia à piena velucità : per indettu, effittueghja a traduzzione di u racontu cortu Le Horla di Maupassant (9370 parole, 52460 caratteri) in 2 siconde di media. 
 - si dispone di statistiche dittagliate annantu à l'usu di l'API Traduttore corsu, per via di a sezzione Analytics di u vostru contu rapidapi.com. 
 
+A [ducumentazione cumpletta](https://rapidapi.com/okchakkotranslator/api/traduttore-corsu-premium/details) si trova annantu à u situ [rapidapi.com](https://www.rapidapi.com).
+
 <p></p>
 <hr>
 <p></p>
