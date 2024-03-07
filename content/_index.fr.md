@@ -35,6 +35,8 @@ La [version Premium de Traduttore corsu pour windows](/zip/setup.exe), adaptée 
 - le traducteur travaille à pleine vitesse : par exemple, il effectue la traduction de la nouvelle Le Horla de Maupassant (9370 mots, 52460 caractères) en 2 secondes en moyenne.
 - vous disposez de statistiques détaillées sur l'utilisation de l'API Traduttore corsu, via la section "Analytics" de votre compte rapidapi.
 
+La [documentation complète](https://rapidapi.com/okchakkotranslator/api/traduttore-corsu-premium/details) se trouve sur le site de [rapidapi.com](https://www.rapidapi.com).
+
 <p></p>
 <hr>
 <p></p>
