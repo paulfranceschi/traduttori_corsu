@@ -1,7 +1,7 @@
 # St'Almanaccu (Dumenicantone Versini)
 
 
-<img align="right" width="20%" src="/images/Amuvra.jpg">
+<img align="right" width="40%" src="/images/Amuvra.jpg">
 
 'Ssa pezza di puisia in lingua corsa, intitulata St'Almanaccu è scritta da Dumenicantone Versini, cunnisciutu sottu à u pseudonimu di Maistrale, offri un sguardu criticu è umuristicu annantu à l'almanacchi è, par via d'estinsioni, annantu à a cridulità umana faccia à i predizzioni è à l'affirmazioni senza fundamentu. Versini, urighjinariu di Marignana, hà publicatu 'ssu puema in A Muvra in u 1923, un periudu induva a cultura è a lingua corsi cunniscìani un rinnovu d'intaressu. 
 
