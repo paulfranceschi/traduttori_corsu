@@ -2,10 +2,9 @@
 title: "Traduttore corsu: traducteur français-corse"
 ---
 
-L'application Traduttore corsu traduit les textes de français en corse. Respectueuse du caractère polynomique de la langue corse, la traduction s'effectue dans l'une des trois variantes principales de la langue corse : cismuntincu, sartinesu, taravesu.
-
 <img align="right" width="25%" src="/images/icon.jpg" style="margin-left: 20px;">
 
+L'application Traduttore corsu traduit les textes de français en corse. Respectueuse du caractère polynomique de la langue corse, la traduction s'effectue dans l'une des trois variantes principales de la langue corse : cismuntincu, sartinesu, taravesu.
 La performance de l'application Traduttore corsu  est évaluée régulièrement à l’aide d’un test qui consiste en la traduction d’un texte pseudo-aléatoire. Ce test porte sur la traduction des 100 premiers mots de l’ « article labellisé du jour » de l’encyclopédie wikipédia en français. Actuellement, le logiciel obtient en moyenne 94 % à ce test.
 
 <img align="right" width="35%" src="/images/screenshot1.jpg" style="margin-left: 20px;">
