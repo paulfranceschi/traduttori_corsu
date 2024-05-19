@@ -33,6 +33,7 @@ The [Premium version of Traduttore corsu for windows](/zip/setup.exe), suitable 
 - the length of the text to be translated is not limited.
 - the translator works at full speed: for example, he translates Maupassant's short story Le Horla (9370 words, 52460 characters) in an average of 2 seconds.
 - detailed statistics on the use of the Traduttore corsu API are available in the "Analytics" section of your rapidapi account.
+- you can ask for certain words to be added to the translation database on a priority basis, and make proposals or suggestions in the Discussions section of the API hub.
 
 The [complete documentation](https://rapidapi.com/okchakkotranslator/api/traduttore-corsu-premium/details) can be found on the [rapidapi.com](https://www.rapidapi.com) website.
 
